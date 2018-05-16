@@ -1,0 +1,2 @@
+# ticketdata
+For the past nine years, I've been collecting movie ticket stubs for every movie I've seen in theaters. This is a brief website I made with Django that shows some data about my moviegoing habits. I thought it would be a fun way to sharpen my web development skills and do something productive with my now-former collection of movie ticket stubs. (I threw the stubs away after completing this project. Some of them were pretty old and worn out.)
