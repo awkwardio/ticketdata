@@ -8,8 +8,13 @@ name = "pypi"
 [packages]
 
 gunicorn = "*"
-django = "2.0.3"
+django = "*"
+django-heroku = "*"
 
 
 [dev-packages]
 
+
+[requires]
+
+python_version = "3.6"
