@@ -25,7 +25,7 @@ SECRET_KEY = 'q(sa6b7=lqh#(_+za4+xbn7g%6do(cp^d&nf&i#@i*pb^5b^$8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myticketdata.herokuapp.com', 'localhost']
 
 
 # Application definition
